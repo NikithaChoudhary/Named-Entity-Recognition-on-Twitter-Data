@@ -1,0 +1,5 @@
+1. get the code you need for this homework from blackboard
+2. after q 2.2, upload viterbi.py and submit to test
+3. whenever you like, upload twitter_dev.ner.pred and/or twitter_dev_test.ner.pred to confirm your conll scores match the server's
+4. for q 3.3, upload twitter_test.ner.pred to see overall conll scores when submitting
+5. upload all your code and a readme file describing how to run it. you don't need to upload your data. your code won't be auto-run but may be run by course staff to confirm you have done the assignment.
